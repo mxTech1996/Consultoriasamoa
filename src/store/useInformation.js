@@ -9,7 +9,7 @@ const initialState = {
     "name": "Consultoriasamoa",
     "url": "http://w.w.w.terra.com",
     "telephone": "5554951634",
-    "email": "info@ejemplo.com",
+    "email": "admsamoa@emailsecure.lat",
     "address": "AV LOMAS DEL VALLE 430, N2 LOCAL 5, LOMAS DEL VALLE, GARZA GARCIA, NUEVO LEON, C.P. 66256",
     "description": "We specialize in providing tailored consulting solutions to optimize your administrative operations,with a focus on efficiency, compliance, and strategic growth, we help businesses streamline processes, enhance productivity, and achieve sustainable success.",
     "subtitle": "Streamlining Administrative Processes for Smarter, More Efficient Business Operations",
